@@ -54,9 +54,3 @@ p{
   font-size: 15px;
   margin-bottom: 20px;
 }
-
-@media(max-width: 375px){
-  img{
-    
-  }
-}
